@@ -3,7 +3,7 @@ const client = new discord.Client();
 
 client.on("ready", () => {
   console.log("[--------------------- R E A D Y ---------------------]");
-  client.user.setActivity("I am NQN 2");
+  client.user.setActivity("created by ROCKY");
 })
 
 client.on("message", async (message) => {
