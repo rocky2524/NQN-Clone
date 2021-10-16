@@ -1,0 +1,15 @@
+{
+  "name": "nitro_bot",
+  "version": "1.0.0",
+  "description": "a clone of nqn discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ROCKY",
+  "license": "",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
